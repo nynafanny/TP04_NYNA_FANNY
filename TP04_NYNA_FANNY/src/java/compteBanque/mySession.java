@@ -25,9 +25,9 @@ public class mySession {
     // "Insert Code > Add Business Method")
     public void creeUnCompteDeTest() {
         creerCompte("nyna", "fanny", "123c", 40000000);
-        creerCompte("Youan", "Bi Youan", "3245c", 20000000);
+        creerCompte("Youan", "Bi Youan", "3245f", 20000000);
         creerCompte("KONE", "Ftim", "8765c", 100000);
-        creerCompte("kouassi", "mids", "12342c", 80000000);
+        creerCompte("kouassi", "mids", "12342a", 80000000);
     }
 
     public CompteBancaire creerCompte(String firstName,String lastName,String accountNumber, double balance) {
